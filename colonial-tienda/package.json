@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://AndrenorAndiarson.github.io/CCCtienda",
+  "homepage": "https://andrenorandiarson.github.io/CCCtienda",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
